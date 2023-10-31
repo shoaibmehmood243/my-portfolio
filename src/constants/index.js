@@ -232,7 +232,7 @@ const projects = [
       },
     ],
     image: electrical,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.electrical.com/",
   },
   {
     name: "Biostrap",
@@ -257,7 +257,7 @@ const projects = [
       },
     ],
     image: biostrap,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://biostrap.com/",
   },
   {
     name: "Twindom",
@@ -278,7 +278,7 @@ const projects = [
       },
     ],
     image: twindom,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://admin.twindom.com/",
   },
   {
     name: "Onio.ai",
@@ -299,7 +299,7 @@ const projects = [
       },
     ],
     image: onio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://lead.onio.ai/",
   },
   {
     name: "Hoobank",
@@ -320,7 +320,7 @@ const projects = [
       },
     ],
     image: hoobank,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://hoooobank.netlify.app/",
   },
 ];
 
